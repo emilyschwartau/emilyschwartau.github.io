@@ -1,17 +1,24 @@
 body {
   background-color: lavender;
-  margin: 10% 10%
+  margin-left: 10px;
 }
 
 .header {
-  background-color: lightgray;
+  background-color: purple;
   padding-left: 10px;
-  border: 1px solid black;
+  border: 2px solid black;
+  border-radius: 10px 
     
 }
 
 .section-title {
   text-transform: uppercase;
+  border: 2px solid black;
+  padding-left: 10px;
+  background-color: lightgray;
+  border: 2px solid black;
+  border-radius: 10px
+    
 }
 
 img {
@@ -23,7 +30,7 @@ img {
 }
 
 .column {
-  flex: 50%;
+  flex:;
 }
 
 .tab { margin-left: 40px; }
