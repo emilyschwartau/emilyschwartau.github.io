@@ -23,7 +23,7 @@ img {
 }
 
 .column {
-  flex: 1%;
+  flex: 50%;
 }
 
 .tab { margin-left: 40px; }
