@@ -1,6 +1,6 @@
 body {
   background-color: lavender;
-  margin: 10% 10%;
+  margin: 10% 10%
 }
 
 .header {
@@ -10,8 +10,20 @@ body {
     
 }
 
-img {
-  float: left;
+.section-title {
+  text-transform: uppercase;
 }
 
+img {
+  float: right;
+}
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 1%;
+}
+
+.tab { margin-left: 40px; }
